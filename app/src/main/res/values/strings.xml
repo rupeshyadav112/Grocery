@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="register_user">Register User</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_seller_text">Are you a seller? Register as Seller</string>
+    <string name="register_button">Register</string>
+    <string name="navigate_back">Navigate back</string>
+    <string name="gps_button">GPS button</string>
+    <string name="logout">Logout</string>
+    <string name="back_button_description">Back</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="filter_button_description">Filter promotion codes</string>
+    <string name="reviews_button_description">View reviews</string>
+
+    <string name="call_button_description">Call the shop</string>
+    <string name="map_button_description">View shop location on map</string>
+    <string name="more_options">More options</string>
+    <string name="content_description_back">Go back</string>
+    <string name="content_description_edit">Edit order</string>
+    <string name="content_description_map">View map</string>
+
+    <string name="add_promo_button">Add Promotion</string>
+    <string name="add_promotion_code">Add Promotion Code</string>
+    <string name="promotion_code">Promotion Code</string>
+    <string name="promotion_description">Promotion Description</string>
+    <string name="promotion_price">Promotion Price</string>
+    <string name="minimum_order_price">Minimum Order Price</string>
+
+    <!-- Additional content descriptions -->
+    <string name="description_full_name">Enter your full name</string>
+    <string name="description_phone">Enter your phone number</string>
+    <string name="description_country">Enter your country</string>
+    <string name="description_state">Enter your state</string>
+    <string name="description_city">Enter your city</string>
+    <string name="description_complete_address">Enter your complete address</string>
+    <string name="description_email">Enter your email address</string>
+    <string name="description_password">Enter your password</string>
+    <string name="description_confirm_password">Confirm your password</string>
+    <string name="description_register_button">Register button</string>
+    <string name="description_register_seller">Are you a seller? Register as Seller</string>
+    <string name="shop_image_desc">Shop Image</string>
+    <string name="call_button_desc">Call the Shop</string>
+    <string name="map_button_desc">View Shop Location on Map</string>
+    <string name="logout_button_desc">Logout</string>
+    <string name="back_button_desc">Go Back</string>
+    <string name="filter_button_desc">Filter Products</string>
+
+    <!-- Content Descriptions for EditText fields -->
+
+    <!-- Hints for EditText fields -->
+    <string name="hint_country">Country</string>
+    <string name="hint_state">State</string>
+    <string name="hint_city">City</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_shop_name">Shop Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_delivery_fee">Delivery Fee</string>
+    <string name="hint_address">Complete Address</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_register_button">Register Button</string>
+    <!-- Content Description for buttons -->
+    <string name="description_back_button">Go back</string>
+    <string name="description_gps_button">GPS button</string>
+
+    <string name="gps_button_description">Enable GPS location</string>
+    <string name="login_icon_description">Login icon</string>
+    <string name="profile_image_description">Profile image</string>
+    <string name="full_name_input_description">Full name input</string>
+    <string name="phone_input_description">Phone number input</string>
+    <string name="country_input_description">Country input</string>
+    <string name="state_input_description">State input</string>
+    <string name="city_input_description">City input</string>
+    <string name="complete_address_input_description">Complete address input</string>
+    <string name="email_input_description">Email address input</string>
+    <string name="password_input_description">Password input</string>
+    <string name="confirm_password_input_description">Confirm password input</string>
+    <string name="register_button_description">Click to register</string>
+
+    <string name="desc_back_button">Back button</string>
+    <string name="desc_gps_button">GPS button</string>
+    <string name="desc_login_icon">Login icon</string>
+    <string name="desc_profile_image">Profile image</string>
+    <string name="desc_full_name_input">Full name input</string>
+    <string name="desc_phone_input">Phone input</string>
+    <string name="desc_country_input">Country input</string>
+    <string name="desc_state_input">State input</string>
+    <string name="desc_city_input">City input</string>
+    <string name="desc_complete_address_input">Complete address input</string>
+    <string name="desc_email_input">Email input</string>
+    <string name="desc_password_input">Password input</string>
+    <string name="desc_confirm_password_input">Confirm password input</string>
+    <string name="desc_register_button">Register button</string>
+
+</resources>
